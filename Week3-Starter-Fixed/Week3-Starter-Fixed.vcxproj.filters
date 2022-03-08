@@ -135,9 +135,6 @@
     <ClInclude Include="src\Gameplay\Components\RotatingBehaviour.h">
       <Filter>Gameplay\Components</Filter>
     </ClInclude>
-    <ClInclude Include="src\Gameplay\Components\Score.h">
-      <Filter>Gameplay\Components</Filter>
-    </ClInclude>
     <ClInclude Include="src\Gameplay\Components\SimpleCameraControl.h">
       <Filter>Gameplay\Components</Filter>
     </ClInclude>
@@ -387,9 +384,6 @@
       <Filter>Gameplay\Components</Filter>
     </ClCompile>
     <ClCompile Include="src\Gameplay\Components\RotatingBehaviour.cpp">
-      <Filter>Gameplay\Components</Filter>
-    </ClCompile>
-    <ClCompile Include="src\Gameplay\Components\Score.cpp">
       <Filter>Gameplay\Components</Filter>
     </ClCompile>
     <ClCompile Include="src\Gameplay\Components\SimpleCameraControl.cpp">

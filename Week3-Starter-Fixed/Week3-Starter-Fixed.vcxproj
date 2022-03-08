@@ -139,7 +139,6 @@
     <ClInclude Include="src\Gameplay\Components\ParticleSystem.h" />
     <ClInclude Include="src\Gameplay\Components\RenderComponent.h" />
     <ClInclude Include="src\Gameplay\Components\RotatingBehaviour.h" />
-    <ClInclude Include="src\Gameplay\Components\Score.h" />
     <ClInclude Include="src\Gameplay\Components\SimpleCameraControl.h" />
     <ClInclude Include="src\Gameplay\Components\TriggerVolumeEnterBehaviour.h" />
     <ClInclude Include="src\Gameplay\GameObject.h" />
@@ -225,7 +224,6 @@
     <ClCompile Include="src\Gameplay\Components\ParticleSystem.cpp" />
     <ClCompile Include="src\Gameplay\Components\RenderComponent.cpp" />
     <ClCompile Include="src\Gameplay\Components\RotatingBehaviour.cpp" />
-    <ClCompile Include="src\Gameplay\Components\Score.cpp" />
     <ClCompile Include="src\Gameplay\Components\SimpleCameraControl.cpp" />
     <ClCompile Include="src\Gameplay\Components\TriggerVolumeEnterBehaviour.cpp" />
     <ClCompile Include="src\Gameplay\GameObject.cpp" />
